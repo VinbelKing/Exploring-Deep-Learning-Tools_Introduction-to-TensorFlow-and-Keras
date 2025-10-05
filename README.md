@@ -1,0 +1,2 @@
+# Exploring-Deep-Learning-Tools_Introduction-to-TensorFlow-and-Keras
+This hands-on laboratory experience provides students with a comprehensive, no-code introduction to deep learning using industry-standard frameworks TensorFlow and Keras. Through interactive exploration of the VGG16 convolutional neural network to gain understanding of how modern artificial intelligence systems process and classify images.
